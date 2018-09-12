@@ -1,16 +1,17 @@
 # SITE CONFIGURATION
-title: Sleek # your site title
+title: Электромонтаж # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+  Электромонтажные работы
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://electromontage.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Сергей
   links:
     - https://twitter.com/BenBalter
     - https://www.facebook.com/ben.balter
@@ -21,12 +22,12 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
-  - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Главная', link: '/'}
+  - {name: 'Прайс', link: '/about'}
+  - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Электромонтажные работы. Быстро. Качественно. Недорого.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
