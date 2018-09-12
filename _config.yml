@@ -23,7 +23,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Главная', link: '/'}
-  - {name: 'Прайс', link: '/about'}
+  - {name: 'Прайс', link: '/price'}
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
