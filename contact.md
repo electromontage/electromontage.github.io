@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Контакты
-permalink: /Contact/
+title: Contact
+permalink: /contact/
 ---
 
 Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
