@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  Электромонтажные работы. Быстро. Качественно. Недорого.
+  Электромонтажные работы в Оренбурге и области. Быстро, качественно, недорого.
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
