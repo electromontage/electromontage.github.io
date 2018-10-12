@@ -24,8 +24,8 @@ navigation: # Navigation links
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  Быстро, качественно, недорого.  
-  940-666
+  <p>Быстро, качественно, недорого.</p>  
+  <p>940-666</p>
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
