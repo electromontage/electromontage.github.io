@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 title: Электромонтажные работы в Оренбурге и области. 
-# your site title Быстро, качественно, недорого.  940-666
+# your site title 
 
 author: GitHub User # You :P
 description: > # Meta description of Homepage
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  
+  Быстро, качественно, недорого.  940-666
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
