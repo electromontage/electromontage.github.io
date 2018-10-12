@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Электромонтаж # your site title
+title: Электромонтажные работы в Оренбурге и области. Быстро, качественно, недорого. # your site title
 author: GitHub User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -27,7 +27,7 @@ navigation: # Navigation links
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  Электромонтажные работы в Оренбурге и области. Быстро, качественно, недорого.
+  
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
