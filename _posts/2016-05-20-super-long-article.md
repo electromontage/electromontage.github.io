@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Some articles are just so long they deserve a really long title to see if things will break well"
+title: Предоставляется трехлетняя гарантия на все монтажные работы
 featured-img: shane-rounce-205187
 ---
 
-Предоставляется трехлетняя гарантия на все монтажные работы
+
