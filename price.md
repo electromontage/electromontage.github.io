@@ -63,7 +63,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 10-16 мм открытым способом</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -71,7 +70,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 25-35 мм открытым способом</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>110,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -79,7 +77,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля (SATA,UTP,FTP) открытым способом</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>25,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -87,7 +84,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Укладка кабеля в кабель канал сечением:0,5-4 мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>36,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -95,7 +91,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Укладка кабеля в кабель канал сечением:6-10 мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -103,7 +98,6 @@ permalink: /price/
   <td class='flx0' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2'>Монтаж провода (ПВ-1,ПВ-3)сечением: 1,5-6 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>42,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -111,7 +105,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж провода (ПВ-1,ПВ-3)сечением: 6-10 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>48,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -119,7 +112,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 0,5-2,5 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -127,7 +119,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 4-6 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>80,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -135,7 +126,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 10-16 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>110,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -143,7 +133,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 25-35 мм в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>140,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -151,7 +140,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Укладка бронированного кабеля в грунт сечением 16-35 мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>250,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -159,7 +147,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля (SATA,UTP,FTP) в ПВХ-гофре,трубе</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>42,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -167,7 +154,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 0,5-2,5 мм в металлорукаве</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>65,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -175,7 +161,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 4-6 мм в металлорукаве</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>75,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -183,7 +168,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 10-16 мм в металлорукаве</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>120,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -191,13 +175,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px none black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 25-35 мм в металлорукаве</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px none black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px none black;'>165,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:126.31pt;' colspan = '4' rowspan ='1'>Монтаж ниши для подрозетников</td>
-  <td class = 'flx9'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -205,7 +187,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Выборка отверстия для подрозетника (гипсокартон;пеноблок)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -213,15 +194,12 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Выборка отверстия для подрозетника (кирпич)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>120,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2.3</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Выборка отверстия для подрозетника ( бетон)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>180,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -229,7 +207,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Выборка отверстия для подрозетника ( брус;бревно)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>180,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -237,21 +214,16 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка подрозетника</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:111.45pt;' colspan = '4' rowspan ='1'>Штробление стены под электропроводку</td>
-  <td class = 'flx9'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3.1</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Гипсолит;гипсокартон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>70,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -259,7 +231,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Кирпич</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>110,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -267,7 +238,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Бетон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -275,13 +245,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Бревно;брус</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>4</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж кабельканала до 60 мм</td>
-  <td class = 'flx9'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -289,7 +257,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Бетон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>70,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -297,7 +264,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Кирпич</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -305,13 +271,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Гипсолит;гипсокартон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>50,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>5</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж кабельканала от 60 мм</td>
-  <td class = 'flx9'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -319,7 +283,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Бетон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>110,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -327,7 +290,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Кирпич</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>95,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -335,21 +297,17 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Гипсолит;гипсокартон</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>80,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж лотка металлического</td>
-  <td class = 'flx3'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6.1</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Шириной до 250мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>140,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -357,7 +315,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Шириной от250мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -365,7 +322,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж подвесов для лотка</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>72,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -373,13 +329,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж крышки лотка</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>18,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>7</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Подготовительные работы</td>
-  <td class = 'flx3'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -387,7 +341,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Сверление отверстия для точечного светильника в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -395,7 +348,6 @@ permalink: /price/
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Сверление отверстия для точечного светильника в реечном потолке</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>80,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -403,7 +355,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж стальных закладных труб</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>70,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -411,29 +362,23 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'><span style ='color:black;'>Монтаж стальных закладных труб с фиксацией цементно-песчаным<br></span><span style ='color:black;'>раствором</span></td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>140,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж щита( бокса)</td>
-  <td class = 'flx3'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8.1</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж навесного щита &nbsp;&nbsp;&nbsp;&nbsp;от</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>800,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8.2</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита до 12 модулей в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -441,7 +386,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита до 12 модулей в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1 700,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -449,7 +393,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита до 12 модулей в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2 400,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -457,7 +400,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 24 модулей в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1 400,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -465,15 +407,12 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 24 модулей в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2 300,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8.7</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 24 модулей в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -481,7 +420,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 36 модулей в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1 800,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -489,7 +427,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 36 модулей в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2 800,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -497,7 +434,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 36 модулей в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>4 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -505,7 +441,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 48 модулей в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2 600,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -513,7 +448,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 48 модулей в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>4 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -521,7 +455,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 48 модулей в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -529,7 +462,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 72 модулей в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3 600,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -537,7 +469,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 72 модулей в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6 700,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -545,13 +476,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж встраиваемого щита на 72 модулей в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>10 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>9</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж устройств на DIN-рейку</td>
-  <td class = 'flx9'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -559,7 +488,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Однополюсного АВ с подключением в ЩР</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>130,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -567,7 +495,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Двухполюсного АВ с подключением в ЩР</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -575,7 +502,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Трехполюсного АВ с подключением в ЩР</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -583,7 +509,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>УЗО (диф-автомата) двухполюсного с подключением в ЩР</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -591,7 +516,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>УЗО (диф-автомата) четырехполюсного с подключением в ЩР</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>210,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -599,7 +523,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж шин PE ,N</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>36,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -607,21 +530,17 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж DIN-рейки</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>10</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:118.88pt;' colspan = '4' rowspan ='1'>Монтаж электроустановочных изделий</td>
-  <td class = 'flx9'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>10.1</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка выключателя на готовое установочное место</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>70,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -629,7 +548,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка розетки электрической на готовое установочное место</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>80,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -637,7 +555,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'><span style ='color:black;'>Установка выключателя для штор (жалюзи) на готовое установочное<br></span><span style ='color:black;'>место</span></td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>90,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -645,7 +562,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка выключателя накладного</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -653,7 +569,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка розетки электрической накладной</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -661,7 +576,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка выключателя для штор (жалюзи) накладного</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>280,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -669,7 +583,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'><span style ='color:black;'>Установка розетки компьютерной, телефонной на готовое<br></span><span style ='color:black;'>установочное место</span></td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>90,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -677,7 +590,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка розетки компьютерной, телефонной накладной</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>180,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -685,7 +597,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка розетки телевизионной на готовое установочное место</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>80,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -693,7 +604,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка розетки телевизионной накладной</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>140,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -701,13 +611,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Демонтаж точки электрической</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>40,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>11</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж светильников</td>
-  <td class = 'flx3'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -715,7 +623,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Замена ламп (люстры, бра)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>20,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -723,7 +630,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Замена ламп (люстры, бра) с демонтажем корпуса</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>75,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -731,7 +637,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Замена патрона (люстры, бра)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>120,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -739,7 +644,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка бра, светильника накладного (до двух ламп)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -747,7 +651,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Сборка/разборка бра</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -755,7 +658,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж светильника дневного света типа Армстронг</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>275,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -763,7 +665,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж светильника точечного на готовое установочное место</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>130,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -771,7 +672,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж люстры простой</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>400,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -779,7 +679,6 @@ permalink: /price/
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж люстры стоимостью от 4000 руб.</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:7.43pt;'><span class='flx7' style ='height:29.86pt;'><span style ='color:black;'>10% от<br></span><span style ='color:black;'>стоимости</span></span></td>
-  <td class = 'flx7' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -787,13 +686,11 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Сборка люстры простой</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>250,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>12</td>
   <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:118.88pt;' colspan = '4' rowspan ='1'>Подключение электрооборудования</td>
-  <td class = 'flx9'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -801,7 +698,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Подключение вентилятора вытяжного</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>300,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -809,7 +705,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Подключение варочной поверхности</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>800,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -817,7 +712,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж и подключение реле выдержки времени</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>900,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -825,7 +719,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка звонка</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -833,7 +726,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Подключение трансформатора понижающего типа ЯТП 0,25</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>500,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -841,7 +733,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Подключение счетчика однофазного</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>700,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -849,7 +740,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Подключение счетчика трехфазного</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>900,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -857,7 +747,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж распаечной коробки(монтаж наружный)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>60,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -865,7 +754,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж распаечной коробки в гипсокартоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>100,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -873,15 +761,12 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж распаечной коробки в кирпиче</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>180,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
-
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>12.11</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж распаечной коробки в бетоне</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>220,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -889,7 +774,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Расключение распаечной коробки пайка</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>100,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -897,7 +781,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Расключение распаечной коробки клеммами WAGO</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>90,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -905,7 +788,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж терморегулятора для теплого пола (накладной)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>550,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -913,7 +795,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'><span style ='color:black;'>Монтаж терморегулятора для теплого пола на готовое установочное<br></span><span style ='color:black;'>место</span></td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>350,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -921,7 +802,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка (наконечника, гильзы) до 10мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>12,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -929,7 +809,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Установка (наконечника, гильзы) от 10мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>25,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -937,7 +816,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж контура заземления 3 заземлителя ( без рытья траншеи)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6 000,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -945,7 +823,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж контура заземления 5 заземлителя ( без рытья траншеи)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8 500,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -954,7 +831,6 @@ permalink: /price/
   <td class = 'flx7' style = 'border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
 <td class = 'flx7' style = 'border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
 <td class = 'flx8' style = 'border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
-<td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -964,7 +840,6 @@ permalink: /price/
 
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>200,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -974,7 +849,6 @@ permalink: /price/
 
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>150,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -982,7 +856,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Сквозное сверление в мягкихматериалах до40см/ф до 20 мм</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>100,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
 </table>
