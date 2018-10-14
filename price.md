@@ -5,7 +5,14 @@ permalink: /price/
 ---
 
 <table style='table-layout:fixed; border-collapse:collapse;border-spacing: 0' border='1' cellpadding='0' cellspacing='0' style='width:612.37pt' summary="Excel Sheet: Table 1">
- <col class='flx0' style ='width:43.28pt;'>
+ <col style='background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;' style ='width:43.28pt;'>
  <col class='flx0' style ='width:263.37pt;'>
  <col class='flx0' style ='width:113.27pt;'>
  <col class='flx0' style ='width:46.97pt;'>
