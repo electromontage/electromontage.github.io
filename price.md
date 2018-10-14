@@ -4,7 +4,7 @@ title: Прайс
 permalink: /price/
 ---
 
-<table class='flxmain_bordered_table' border='1' cellpadding='0' cellspacing='0' style='width:612.37pt' summary="Excel Sheet: Table 1">
+<table style='table-layout:fixed; border-collapse:collapse;border-spacing: 0' border='1' cellpadding='0' cellspacing='0' style='width:612.37pt' summary="Excel Sheet: Table 1">
  <col class='flx0' style ='width:43.28pt;'>
  <col class='flx0' style ='width:263.37pt;'>
  <col class='flx0' style ='width:113.27pt;'>
