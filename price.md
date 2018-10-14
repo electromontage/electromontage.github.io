@@ -13,10 +13,38 @@ permalink: /price/
   text-align:left;
   vertical-align:top;
   white-space:nowrap;' style ='width:43.28pt;'>
- <col class='flx0' style ='width:263.37pt;'>
- <col class='flx0' style ='width:113.27pt;'>
- <col class='flx0' style ='width:46.97pt;'>
- <col class='flx0' span='2' style ='width:72.74pt;'>
+ <col style='background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;' style ='width:263.37pt;'>
+ <col class='background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;' style ='width:113.27pt;'>
+ <col class='background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;' style ='width:46.97pt;'>
+ <col class='background-color:white;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:nowrap;' span='2' style ='width:72.74pt;'>
   <tr style='display:none'>
     <td style = 'padding:0;width:43.28pt;'></td>
     <td style = 'padding:0;width:263.37pt;'></td>
@@ -26,11 +54,46 @@ permalink: /price/
     <td style = 'padding:0;width:72.74pt;'></td>
   </tr>
  <tr  style='height:13.84pt;'>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:74.3pt;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:14.86pt;'>Цена</td>
-  <td class = 'flx1' style = 'border-left:1px none black;'></td>
+  <td class='background-color:#d8d8d8;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
+  <td class='background-color:#d8d8d8;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:74.3pt;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
+  <td class='background-color:#d8d8d8;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
+  <td class='background-color:#d8d8d8;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:14.86pt;'>Цена</td>
+  <td class = 'background-color:#d8d8d8;
+  color:black;
+  font-size:10pt;
+  font-weight:normal;
+  font-style:normal;
+  text-align:left;
+  vertical-align:top;
+  white-space:normal;' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
