@@ -65,13 +65,13 @@
   }
 
   .hero__title {
-    font-size: 0.2em;
+    font-size: 1.2em;
     color: $bg-color;
   
     @include breakpoint($md) {
       padding: 1rem 0;
-      font-size: 0.625em;
-      line-height: 0.125rem;
+      font-size: 2.625em;
+      line-height: 3.125rem;
     }
   }
 
