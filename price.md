@@ -23,7 +23,6 @@ permalink: /price/
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:74.3pt;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:14.86pt;'>Цена</td>
-  <td class = 'flx1' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -37,7 +36,6 @@ permalink: /price/
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж провода (ПВ-1,ПВ-3)сечением: 1,5-4 мм открытым способом</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>24,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
@@ -45,7 +43,6 @@ permalink: /price/
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж провода (ПВ-1,ПВ-3)сечением: 6-10 мм открытым способом</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>33,00р.</td>
-  <td class = 'flx6' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -53,7 +50,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 0,5-2,5 мм открытым способом</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>40,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -61,7 +57,6 @@ permalink: /price/
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж кабеля сечением: 4-6 мм открытым способом</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>50,00р.</td>
-  <td class = 'flx8' style = 'border-left:1px none black;'></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
