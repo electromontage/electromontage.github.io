@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Электромонтажные работы в Оренбурге и области. 
+title: Электромонтажные работы в Оренбурге и области
 # your site title 
 
 author: Sergey Vladimirovich # You :P
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Контакты', link: '/contact'}
 
 tagline: >
-  <h1 style="color:#fff>Быстро, качественно, недорого.</h1>  
+  <h1 style="color:#fff">Быстро, качественно, недорого</h1>  
   <h2 style="color:#fff">940-666</h2>
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
