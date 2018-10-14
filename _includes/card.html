@@ -16,6 +16,8 @@
     {% endif %}
     
     <div class="post-card__header">
-      <h2 class="custom_class">{{ post.title | truncate: 100 }}</h2>
+      <div class="post-card__inner">
+          <h2 class="custom_class">{{ post.title | truncate: 100 }}</h2>
+      </div>
     </div>
 </div>
