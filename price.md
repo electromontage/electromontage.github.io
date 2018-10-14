@@ -28,7 +28,6 @@ permalink: /price/
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Прокладка кабеля:</td>
-  <td class = 'flx3'></td>
 
 </tr>
  <tr  style='height:29.86pt;'>
