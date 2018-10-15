@@ -5,18 +5,18 @@ permalink: /price/
 ---
 
 <table style='flxmain_bordered_table' border='1' cellpadding='0' cellspacing='0' style='width:100%' summary="Excel Sheet: Table 1">
- <col class='flx0' style ='width:43.28pt;'>
- <col class='flx0' style ='width:43.28pt;'>
- <col class='flx0' style ='width:43.28pt;'>
- <col class='flx0' style ='width:43.28pt;'>
- <col class='flx0' style ='width:43.28pt;'>
+ <col class='flx0' style ='width:10pt;'>
+ <col class='flx0' style ='width:10pt;'>
+ <col class='flx0' style ='width:10pt;'>
+ <col class='flx0' style ='width:10pt;'>
+ <col class='flx0' style ='width:10pt;'>
   <tr style='display:none'>
-    <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:43.28pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
+    <td style = 'padding:0;width:10pt;'></td>
   </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
