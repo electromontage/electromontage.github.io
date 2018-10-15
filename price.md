@@ -20,9 +20,9 @@ permalink: /price/
   </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:20.3pt;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
+  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:14.86pt;'>Цена</td>
+  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Цена</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
