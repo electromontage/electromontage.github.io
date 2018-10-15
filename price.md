@@ -179,7 +179,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>2</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:126.31pt;' colspan = '4' rowspan ='1'>Монтаж ниши для подрозетников</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж ниши для подрозетников</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -217,7 +217,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:111.45pt;' colspan = '4' rowspan ='1'>Штробление стены под электропроводку</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Штробление стены под электропроводку</td>
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>3.1</td>
@@ -249,7 +249,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>4</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж кабельканала до 60 мм</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж кабельканала до 60 мм</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -275,7 +275,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>5</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж кабельканала от 60 мм</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж кабельканала от 60 мм</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -480,7 +480,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>9</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:133.74pt;' colspan = '4' rowspan ='1'>Монтаж устройств на DIN-рейку</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж устройств на DIN-рейку</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -534,7 +534,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>10</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:118.88pt;' colspan = '4' rowspan ='1'>Монтаж электроустановочных изделий</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Монтаж электроустановочных изделий</td>
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>10.1</td>
@@ -678,7 +678,7 @@ permalink: /price/
   <td class='flx4' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>11.9</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж люстры стоимостью от 4000 руб.</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
-  <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:7.43pt;'><span class='flx7' style ='height:29.86pt;'><span style ='color:black;'>10% от<br></span><span style ='color:black;'>стоимости</span></span></td>
+  <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'><span class='flx7' style ='height:29.86pt;'><span style ='color:black;'>10% от<br></span><span style ='color:black;'>стоимости</span></span></td>
 
 </tr>
  <tr  style='height:13.84pt;'>
@@ -690,7 +690,7 @@ permalink: /price/
 </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>12</td>
-  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;padding-left:118.88pt;' colspan = '4' rowspan ='1'>Подключение электрооборудования</td>
+  <td class='flx9' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Подключение электрооборудования</td>
 
 </tr>
  <tr  style='height:13.84pt;'>
