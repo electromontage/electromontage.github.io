@@ -12,11 +12,11 @@ permalink: /price/
  <col class='flx0' style ='width:43.28pt;'>
   <tr style='display:none'>
     <td style = 'padding:0;width:43.28pt;'></td>
-    <td style = 'padding:0;width:263.37pt;'></td>
-    <td style = 'padding:0;width:113.27pt;'></td>
-    <td style = 'padding:0;width:46.97pt;'></td>
-    <td style = 'padding:0;width:72.74pt;'></td>
-    <td style = 'padding:0;width:72.74pt;'></td>
+    <td style = 'padding:0;width:43.28pt;'></td>
+    <td style = 'padding:0;width:43.28pt;'></td>
+    <td style = 'padding:0;width:43.28pt;'></td>
+    <td style = 'padding:0;width:43.28pt;'></td>
+    <td style = 'padding:0;width:43.28pt;'></td>
   </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
