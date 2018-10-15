@@ -6,10 +6,10 @@ permalink: /price/
 
 <table style='flxmain_bordered_table' border='1' cellpadding='0' cellspacing='0' style='width:100%' summary="Excel Sheet: Table 1">
  <col class='flx0' style ='width:43.28pt;'>
- <col class='flx0' style ='width:263.37pt;'>
- <col class='flx0' style ='width:113.27pt;'>
- <col class='flx0' style ='width:46.97pt;'>
- <col class='flx0' style ='width:72.74pt;'>
+ <col class='flx0' style ='width:43.28pt;'>
+ <col class='flx0' style ='width:43.28pt;'>
+ <col class='flx0' style ='width:43.28pt;'>
+ <col class='flx0' style ='width:43.28pt;'>
   <tr style='display:none'>
     <td style = 'padding:0;width:43.28pt;'></td>
     <td style = 'padding:0;width:263.37pt;'></td>
@@ -20,7 +20,7 @@ permalink: /price/
   </tr>
  <tr  style='height:13.84pt;'>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
-  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:74.3pt;' colspan = '4' rowspan ='1'>Наименование единичной расценки</td>
+  <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:74.3pt;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;padding-left:14.86pt;'>Цена</td>
 
