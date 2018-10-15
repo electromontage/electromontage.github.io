@@ -4,9 +4,9 @@ title: Прайс
 permalink: /price/
 ---
 
-<table style='flxmain_bordered_table' border='1' cellpadding='0' cellspacing='1px' style='width:100%' summary="Excel Sheet: Table 1">
+<table border='1' cellpadding='0' cellspacing='1px' style='width:100%' summary="Excel Sheet: Table 1">
  <tr  style='height:13.84pt;'>
-  <td style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black; width: 100%'>№</td>
+  <td style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black; width: 1px'>№</td>
   <td  style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
   <td  style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
   <td  style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Цена</td>
