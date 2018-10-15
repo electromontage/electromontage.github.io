@@ -18,26 +18,26 @@ permalink: /price/
     <td style = 'padding:0;'></td>
     <td style = 'padding:0;'></td>
   </tr>
- <tr  style='height:13.84pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>№</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Наименование единичной расценки</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Ед.изм</td>
   <td class='flx1' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>Цена</td>
 
 </tr>
- <tr  style='height:13.84pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1</td>
   <td class='flx3' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;' colspan = '4' rowspan ='1'>Прокладка кабеля:</td>
 
 </tr>
- <tr  style='height:29.86pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx4' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1.1</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж провода (ПВ-1,ПВ-3)сечением: 1,5-4 мм открытым способом</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
   <td class='flx6' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>24,00р.</td>
 
 </tr>
- <tr  style='height:29.86pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx4' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>1.2</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж провода (ПВ-1,ПВ-3)сечением: 6-10 мм открытым способом</td>
   <td class='flx5' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>м.п.</td>
@@ -818,14 +818,14 @@ permalink: /price/
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>6 000,00р.</td>
 
 </tr>
- <tr  style='height:13.84pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>12.19</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;' colspan = '2' rowspan ='1'>Монтаж контура заземления 5 заземлителя ( без рытья траншеи)</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>шт</td>
   <td class='flx8' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>8 500,00р.</td>
 
 </tr>
- <tr  style='height:13.84pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>13.</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;'>Сквозное сверление стен&nbsp;</td>
   <td class = 'flx7' style = 'border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
@@ -833,7 +833,7 @@ permalink: /price/
 <td class = 'flx8' style = 'border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
 
 </tr>
- <tr  style='height:13.84pt;'>
+ <tr  style='height:50.84pt;'>
   <td class='flx2' style ='border-left:1px solid black;border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'>13,1.</td>
   <td class='flx7' style ='border-left:1px solid black;border-top:1px solid black;border-bottom:1px solid black;'>Сквозное сверление в бетоне до40см/ф до 20 мм</td>
   <td class = 'flx7' style = 'border-top:1px solid black;border-right:1px solid black;border-bottom:1px solid black;'></td>
